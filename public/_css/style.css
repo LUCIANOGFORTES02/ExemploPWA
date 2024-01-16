@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(48, 39, 39);
+    color: rgb(190, 190, 215);
+}
+
+h1 {
+    color: white;
+    font-size: 2rem ;
+    text-align: center;
+}
+.button {
+    background-color: red;
+    color: azure;
+    border-radius: 8px;
+    border: solid;
+     
+}
